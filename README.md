@@ -13,8 +13,6 @@ Semana Next Level Week 1.0:
   <a href="#licença">Licença</a>
 </p>
 
-<hr/>
-
 ## Projeto
 
 Ecoleta é um projeto desenvolvido com objetivo de conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha entre outros.
