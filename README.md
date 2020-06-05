@@ -97,7 +97,7 @@ $ npm start
 </div>
 
 <div align="center">
-    <img alt="Desktop" title="#Desktop" src="assets_readme/frontend.png" width="250px" />
+    <img alt="Desktop" title="#Desktop" src="assets_readme/frontend.png" width="100%" />
 		<img alt="Desktop" title="#Desktop" src="assets_readme/front-end-2.png" width="250px" />
 </div>
 
